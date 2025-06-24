@@ -25,6 +25,7 @@ Perusahaan asuransi ingin mengantisipasi risiko klaim dengan memprediksi kemungk
 ## ✅ Model Final
 Model akhir yang dipilih adalah **Voting Classifier**, karena memberikan hasil paling seimbang antara recall dan ROC AUC.
 
-Disimpan sebagai file: [`voting_model.pkl`](./voting_model.pkl)
+Disimpan sebagai file: votingmodel . pkl di googledrive karena diatas 25mb https://drive.google.com/file/d/1mgd3s_88SMku2YeCG182q5RtVh9qLFjs/view?usp=sharing
+
 
 
